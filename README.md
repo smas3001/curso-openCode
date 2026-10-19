@@ -1,12 +1,14 @@
-## Mi Primera Página Web
+# Mi Primera Pagina Web
+
 Esta es una página web en la cual vamos a usarla para explorar y aprender un poco sobre OpenCode.
 
 ## Tecnologías Usadas
-HTML
-CSS
-Tailwind CSS
-JavaScript
+
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
 
 ## Contacto
 
-jsaad@proof.com
+- Email: [juanpablo.m@outlook.com](mailto:juanpablo.m@outlook.com)
